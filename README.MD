@@ -74,14 +74,16 @@ El pipeline se implementa mediante notebooks independientes para cada capa:
 * Ejemplos de análisis: top 10 de contenidos, clasificación por duración y puntuación, segmentación temática.
 
 ## 👤 Autor
-Lemuel Azael Carrillo Barrera
+Lemuel Azael Carrillo Barrera  
 Proyecto para portafolio de ingeniería de datos.
+
+🔗 [Sobre mí](https://www.notion.so/Perfil-profesional-Lemuel-Azael-Carrillo-Barrera-2619ec6ab8528025b300d6099cd92add?source=copy_link)
 
 ## 📚 Desarrollo completo del proyecto
 
 Revisa todo el proceso paso a paso: desde la configuración inicial hasta la ejecución automatizada en AWS.
 
-🔎 [Ver desarrollo completo en Notion](https://www.notion.so/ETL-on-Netflix-Dataset-using-Databricks-and-Medallion-Architecture-2569ec6ab852803c9fecd5297fd2ecb9?source=copy_link)
+🔎 [Ver desarrollo completo en Notion](https://www.notion.so/ETL-on-Netflix-Dataset-using-Databricks-and-Medallion-Architecture-2619ec6ab852803a916eea2e2ebf4f88?source=copy_link)
 
 ## 🌐 Portafolio completo
 
